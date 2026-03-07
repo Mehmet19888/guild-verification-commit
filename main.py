@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-07T15:29:23.788Z
-Commit: Add dark mode support
+Timestamp: 2026-03-07T15:29:26.900Z
+Commit: Add multi-language support
