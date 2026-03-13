@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-13T18:51:15.711Z
-Commit: Patch API endpoint error handling
+Timestamp: 2026-03-13T18:51:41.554Z
+Commit: Add export functionality for reports
