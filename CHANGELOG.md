@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-13T15:18:07.855Z
-Commit: Add dark mode support
+Timestamp: 2026-03-13T15:18:31.780Z
+Commit: Patch API endpoint error handling
