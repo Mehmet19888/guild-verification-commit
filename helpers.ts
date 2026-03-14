@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-14T22:57:58.670Z
-Commit: Correct typo in configuration file
+Timestamp: 2026-03-14T22:58:19.604Z
+Commit: Fix memory leak in event handlers
