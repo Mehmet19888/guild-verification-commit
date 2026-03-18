@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-18T13:13:51.129Z
-Commit: Add dark mode support
+Timestamp: 2026-03-18T13:13:53.260Z
+Commit: Resolve null pointer exception in user service
