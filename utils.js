@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-18T13:39:34.998Z
-Commit: Fix memory leak in event handlers
+Timestamp: 2026-03-18T13:40:02.542Z
+Commit: Add dark mode support
