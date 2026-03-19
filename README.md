@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-19T13:51:40.066Z
-Commit: Fix database connection timeout
+Timestamp: 2026-03-19T13:51:50.954Z
+Commit: Fix memory leak in event handlers
