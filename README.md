@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-24T16:59:46.856Z
-Commit: Fix CSS styling bug on mobile devices
+Timestamp: 2026-03-24T17:00:32.649Z
+Commit: Add multi-language support
