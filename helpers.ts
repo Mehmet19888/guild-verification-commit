@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-25T15:49:01.635Z
-Commit: Patch security vulnerability in authentication
+Timestamp: 2026-03-25T15:49:22.220Z
+Commit: Fix memory leak in event handlers
